@@ -14,11 +14,11 @@ programa en pyton para calcular el area de un circulo dado el valor de su radio
 
  p = 2*\pi*r$
 
- 
+
 ## Diseño
 
 
 
-![diagrama de flujo](diagrama.png)
+![driagrama de flujo](driagrama.png)
 
 ## Construcion
